@@ -63,5 +63,15 @@ permalink: /publications/
     {{ pub.journal }}
   </div>
 
+  <div style="margin-top:8px;">
+  {% if pub.pdf %}
+    <a href="{{ pub.pdf }}" style="margin-right:10px; text-decoration:none; color:#2c7be5;">📄 PDF</a>
+  {% endif %}
+  
+  {% if pub.doi %}
+    <a href="{{ pub.doi }}" style="text-decoration:none; color:#2c7be5;">🔗 DOI</a>
+  {% endif %}
+</div>
+
 </div>
 {% endfor %}
