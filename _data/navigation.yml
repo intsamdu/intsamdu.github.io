@@ -16,19 +16,16 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /talks/    
+    url: /projects/    
 
   - title: "Teaching"
     url: /teaching/    
      
   - title: "Experience"
-    url: /year-archive/
+    url: /experience/
     
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
   - title: "Contact"
-    url: /markdown/
+    url: /contact/
