@@ -15,11 +15,7 @@ Prior to GSFC, I was a postdoctoral reseacher at the Space Physics Research grou
 I was a Summer Research Fellow at the Netherlands Institute for Radio Astronomy (ASTRON) in the summer of 2018 with Dr. Pietro Zucca. I worked on Solar imaging pipeline with the Low Frequency Array.
 
 ---
-layout: single
-author_profile: true
 title: "Research Interest"
-permalink: /
-author_profile: true
 ---
 
 Solar Physics: Coronal mass ejections, MFM/MHD Simulations, Coronal Magnetic fields, Space Weather
