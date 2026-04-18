@@ -16,7 +16,7 @@ I was a Summer Research Fellow at the Netherlands Institute for Radio Astronomy 
 
 ---
 Research Interest
----
+
 
 Solar Physics: Coronal mass ejections, MFM/MHD Simulations, Coronal Magnetic fields, Space Weather
 
