@@ -52,7 +52,13 @@ permalink: /publications/
   <div class="pub-year">{{ pub.year }}</div>
 
   <div class="pub-title">
-    {{ pub.title }}
+    {% if pub.doi %}
+      <a href="{{ pub.doi }}" style="text-decoration:none; color:#1a1a1a;">
+        {{ pub.title }}
+      </a>
+    {% else %}
+      {{ pub.title }}
+    {% endif %}
   </div>
 
   <div class="pub-authors">
