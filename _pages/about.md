@@ -4,24 +4,20 @@ title: "About me"
 permalink: /
 author_profile: true
 ---
-Welcome !
+Welcome!
 
-I am an Engineer-turned-Radio Astronomer/Solar Physicist, currently working on Space-based intrumentation and Solar eruptions. At present, I am a NASA Postdoctoral Program (NPP) Fellow at the National Aeronautics and Space Administration (NASA) / Goddard Space Flight Center (GSFC).
+I am a nuclear physicist and researcher specializing in radiation monitoring, nuclear instrumentation, and environmental radioactivity. Currently, I serve as an Associate Professor at Samarkand State University, where I am actively involved in teaching, scientific research, and the development of laboratory infrastructure.
 
-I am alumnus of the Indian Institute of Astrophysics (IIAp), Bengaluru and University of Calcutta (CU), India. I did integrated M.Tech and PhD from IIA-CU in 2020 in Astronomical Intrumentation.
+My research focuses on radiation measurements, gamma spectroscopy, and environmental monitoring of radionuclides. I have extensive experience in analyzing radiation data, conducting field measurements, and developing methodologies for radiation safety and nuclear applications.
 
-Prior to GSFC, I was a postdoctoral reseacher at the Space Physics Research group with Prof. Emilia Kilpua of the University of Helsinki. I did numerical simulations of solar flux ropes and observation of solar radio bursts.
+I obtained my PhD in Nuclear Physics from the Institute of Nuclear Physics (Uzbekistan) in 2021, following my Master’s and Bachelor’s degrees in Physics from Samarkand State University.
 
-I was a Summer Research Fellow at the Netherlands Institute for Radio Astronomy (ASTRON) in the summer of 2018 with Dr. Pietro Zucca. I worked on Solar imaging pipeline with the Low Frequency Array.
+Over the years, I have participated in several international research programs and collaborations. I was a research fellow at the International Atomic Energy Agency (IAEA) in Vienna, where I worked on in-situ gamma spectrometry and data analysis. I also conducted research at the University of Surrey (UK) and Argonne National Laboratory (USA), focusing on detector calibration, nuclear reactor simulations, and radiation measurements.
 
+In addition, I was a visiting scholar at the Massachusetts Institute of Technology (MIT), contributing to the development of computational tools for reactor physics using Python and OpenMC.
 
-## Research Interest
+I have led and contributed to multiple international and national projects, including IAEA technical cooperation programs and research initiatives funded by international organizations. My work includes designing laboratory systems, developing educational programs, and implementing modern technologies in nuclear science education.
 
-Solar Physics: Coronal mass ejections, MFM/MHD Simulations, Coronal Magnetic fields, Space Weather
+I am the author of numerous scientific publications in international peer-reviewed journals and conference proceedings. My research interests also extend to data analysis, simulation, and the application of modern computational techniques in nuclear science.
 
-Radio Astronomy: Solar and non-solar transients, Low-frequency radio imaging and polarization studies, IPS
-
-Astrophysical Plasma: Solar corona, Planetary magnetosphere and Pulsars
-
-Instrumentation: Antenna design, Low frequency radio instruments, Digital back-ends,
 
