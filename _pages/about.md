@@ -1,56 +1,33 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+The Institute of Nuclear Technologies is a scientific and educational institution in the Republic of Uzbekistan, specializing in the peaceful development of nuclear technologies, their integration into science, education, and practical fields, as well as the training of highly qualified specialists in this area.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+In accordance with the Decree № DP-5484 of the President of the Republic of Uzbekistan dated July 19, 2018, “Measures for the Development of Nuclear Energy in the Republic of Uzbekistan,” the Resolution № RP-4165 dated February 7, 2019, “On the Approval of the Concept for the Development of Nuclear Energy in the Republic of Uzbekistan for 2019–2029,” and the Decree on the “New Uzbekistan Development Strategy for 2022–2026,” the task of training specialists in this field was assigned to Samarkand State University. To ensure the execution of these tasks, the Institute of Nuclear Technologies was established by the order № 251-IJ dated July 4, 2025, of Samarkand State University named after Sharof Rashidov.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+The Institute was established based on the Nuclear Physics Laboratory named after Academician Tolib Muminov and is currently functioning as an institution that effectively integrates modern education, scientific research, and innovative activities. The Institute consists of 2 departments, 2 scientific laboratories, 5 educational-scientific laboratories, and an astronomy educational-scientific center. Currently, around 30 professors, teachers, and research staff are working at the Institute, conducting effective scientific research in experimental nuclear physics, radiation materials science, radiobiology, radioecology, nuclear medicine, astronomy, and astrophysics. Among them, there are 4 doctors of science, professors, 6 PhD holders, associate professors, 3 senior researchers, and 6 assistants and junior researchers.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+The Institute trains highly qualified specialists with modern knowledge and practical skills in bachelor's degree programs such as Physics, Medical Physics, Astronomy, Nuclear Technologies, and Nuclear Energy, as well as master's degree specialties such as Nuclear Medicine, Accelerator Physics, and Radiation Safety. During their academic and scientific activities, specialists are provided with in-depth training on working with ionizing radiation sources, radiation measurement and analysis, using accelerator devices, and applying nuclear and radiation technologies in medicine, energy, and industry sectors. These processes are carried out based on the Institute's nuclear physics and radiation analysis laboratories, ensuring a seamless integration of theory and practice.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Nuclear technologies and nuclear physics equipment and methods are widely used today across various sectors of industry and society. The scientific and applied research conducted at the Institute focuses on areas such as the mining industry, including uranium extraction enterprises, the chemical industry, radiation monitoring at borders, detecting the illegal circulation of radioactive materials, ensuring the radiation safety of food products and building materials, forensic science, oncology and nuclear medicine, agriculture, hydrometeorology, geology, environmental protection, radiation sterilization, and the ecological restoration of uranium mining areas. In addressing these critical issues, the Institute's nuclear physics and radiation analysis laboratories actively participate in scientific research, experimental testing, and the training of qualified specialists.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+The Institute’s scientific and educational activities are developing based on stable international collaborations established with leading foreign scientific centers. In particular, the Institute conducts scientific research within the framework of joint cooperation agreements with the Kurchatov Institute National Research Center in the Russian Federation, the Joint Institute for Nuclear Research in Dubna, Harbin Engineering University, South China University, and the Institute of Modern Physics of the Chinese Academy of Sciences. Within the scope of these collaborations, joint scientific projects, experimental testing, academic exchanges, and programs aimed at training specialists and young researchers are being implemented.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+The Institute is equipped with advanced instruments for modern atomic and nuclear physics, astronomy, spectrometry, dosimetry, and nuclear electronics. In particular, at the Astronomy Educational-Scientific Center, regular scientific observations are conducted within the framework of space weather research funded by UNESCO’s Committee on Space Research (COSPAR) and NASA, using the Solar Radio Spectrometer (CALLISTO). The data obtained from these observations are transmitted to NASA’s international database and are actively used by the global scientific community in the study of space weather phenomena.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The Institute’s professors, teachers, and research staff regularly enhance their qualifications at leading research centers in Europe, Russia, the USA, China, and India. At the same time, they conduct collaborative scientific research, and the results obtained are published in internationally renowned scientific journals.
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Within the framework of international technical projects by the IAEA, the Institute has significantly strengthened its laboratory infrastructure by attracting foreign grants totaling 1 million USD. This has led to the establishment of 5 scientific and educational laboratories, where over 170 students and 20 master's students annually conduct laboratory practices.
 
-**Markdown generator**
+The Institute’s laboratories include specialized underground facilities designed for electron accelerators, as well as a 300-meter underground tunnel that enables the implementation of unique experiments. In 2003, this scientific complex was designated as a “Unique Object,” and today, it is equipped with the necessary infrastructure for the implementation of modern nuclear technologies.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+Bachelor’s degree programs:
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+60531200 – Medical Physics
+60530700 – Astronomy
+Master’s degree programs:
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+70530901 – Physics (by specialization)
+70530701 – Astronomy
+70530902 – Nuclear Physics and Nuclear Technologies (by application fields)
+Doctoral degree programs:
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+01.04.08 – Atomic Nucleus and Elementary Particle Physics. Accelerator Technology
+01.03.01 – Astronomy
