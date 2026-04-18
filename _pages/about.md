@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Home"
+permalink: /
+author_profile: true
+---
 The Institute of Nuclear Technologies is a scientific and educational institution in the Republic of Uzbekistan, specializing in the peaceful development of nuclear technologies, their integration into science, education, and practical fields, as well as the training of highly qualified specialists in this area.
 
 In accordance with the Decree № DP-5484 of the President of the Republic of Uzbekistan dated July 19, 2018, “Measures for the Development of Nuclear Energy in the Republic of Uzbekistan,” the Resolution № RP-4165 dated February 7, 2019, “On the Approval of the Concept for the Development of Nuclear Energy in the Republic of Uzbekistan for 2019–2029,” and the Decree on the “New Uzbekistan Development Strategy for 2022–2026,” the task of training specialists in this field was assigned to Samarkand State University. To ensure the execution of these tasks, the Institute of Nuclear Technologies was established by the order № 251-IJ dated July 4, 2025, of Samarkand State University named after Sharof Rashidov.
