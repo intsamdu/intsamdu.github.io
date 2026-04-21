@@ -65,14 +65,9 @@ Samarkand State University
 <div class="contact-item">
 🔬 <strong>Research Profiles:</strong><br>
 
-<a href="#">Google Scholar</a> |  
-<a href="#">ORCID</a> |  
-<a href="#">Scopus</a>
-</div>
-
-<div class="contact-item">
-💻 <strong>GitHub:</strong>  
-<a href="#">github.com/username</a>
+<a href="https://scholar.google.com/citations?user=wcaTmm8AAAAJ&hl=en&oi=ao">Google Scholar</a> |  
+<a href="https://orcid.org/0000-0002-8992-5768">ORCID</a> |  
+<a href="https://www.scopus.com/authid/detail.uri?authorId=8941870200">Scopus</a>
 </div>
 
 </div>
