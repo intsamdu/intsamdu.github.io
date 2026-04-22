@@ -10,6 +10,7 @@ collections:
     label: "Professors"
     folder: "_people"
     create: true
+    slug: "{{slug}}"
     fields:
       - { label: "Name", name: "title", widget: "string" }
       - { label: "Position", name: "position", widget: "string" }
